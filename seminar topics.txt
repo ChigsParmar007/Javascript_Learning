@@ -1,0 +1,89 @@
+1. 
+https://www.seminarsonly.com/computer%20science/smart-card-id.php
+smart card which can holds aadhar card, voter id card, driving licence, office id, canteen id etc..
+
+2.
+CAPTCHA making
+https://www.geeksforgeeks.org/program-generate-captcha-verify-user/
+
+3.
+Smart Voting System Support through Face Recognition
+https://www.seminarsonly.com/computer%20science/smart-voting-system.php
+
+4.
+Text Mining : 
+https://studymafia.org/text-mining-seminar-and-ppt-with-pdf-report/
+
+5.
+adblocker
+https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd
+https://hackernoon.com/your-own-ad-blocker-in-3-minutes-bpo42wz
+https://javascript.plainenglish.io/create-your-own-ad-blocker-chrome-extension-using-react-part-i-ea04613b1583
+https://docs.bytemark.co.uk/article/create-your-own-ad-blocker-in-15-minutes/
+
+6. android blutooth chat application
+(https://projectideas.co.in/android-bluetooth-chat-android/)
+
+
+7. create apllication for desktop which can connect to mobile via blutooth
+	if mobile blutooth is disconnect leptop or desktop will automatically lock
+
+8.
+Movie Recommendation App
+
+9.
+Weather Application
+https://www.freecodecamp.org/news/learn-react-by-building-a-weather-app/#:~:text=To%20create%20our%20react%20application,folder%20and%20type%20npm%20start%20.&text=We%20don't%20need%20all%20of%20this%20right%20now.
+
+-----------------------------------------------
+1.
+face detection system: 
+https://www.google.com/search?q=face+detection+system&ei=vgmtY9KTGt2OseMPqayS8A0&oq=face+detectio&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgBMgUIABCRAjIFCAAQkQIyCAgAEIAEELEDMgUIABCABDIFCAAQkQIyBQgAEJECMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoKCAAQRxDWBBCwAzoHCCEQoAEQCjoECCEQFToWCAAQ6gIQtAIQigMQtwMQ1AMQ5QIYAToTCAAQ6gIQtAIQigMQtwMQ5QIYAToTCAAQjwEQ6gIQtAIQjAMQ5QIYAjoTCC4QjwEQ6gIQtAIQjAMQ5QIYAjoLCAAQgAQQsQMQgwE6BQguEIAEOhEILhCABBCxAxCDARDHARDRAzoLCC4QgAQQsQMQ1AI6CggAELEDEIMBEEM6BAguEEM6BwguENQCEEM6BAgAEEM6BwgAELEDEENKBAhBGABKBAhGGAFQzwRYqSZguj1oAnABeASAAdcBiAH1FJIBBjAuMTcuMZgBAKABAbABEsgBCMABAdoBBAgBGAfaAQYIAhABGAo&sclient=gws-wiz-serp
+https://realpython.com/face-recognition-with-python/	
+https://www.geeksforgeeks.org/python-face-recognition-using-gui/
+
+2. 
+Shape Detection Model
+(https://www.projectpro.io/article/object-detection-project-ideas-with-source-code/490)
+
+
+3.
+Vehicle Counting Model
+
+4.
+Vehicle Detection in Video Data
+
+5.
+Number-Plate Reader(https://www.projectpro.io/article/computer-vision-projects/437)
+
+7.
+Traffic light detection(https://www.v7labs.com/blog/computer-vision-project-ideas#h16)
+
+
+-----------------------------------------
+docker
+digital ocean
+
+
+Real time weather app
+https://github.com/CodeExplainedRepo/Weather-App-JavaScript
+
+-----------------
+Javsctipt Library Making
+1. Form 
+
+2. api 
+https://www.sitepoint.com/design-and-build-your-own-javascript-library/
+
+3.
+javaScript Form Validation
+https://github.com/sahaavi/Form-Validation-JavaScript
+https://www.interviewbit.com/blog/javascript-projects/
+
+
+https://www.youtube.com/watch?v=SqvVm3QiQVk&t=2531s
+
+
+topics with code
+https://jsbeginners.com/javascript-projects-for-beginners/	
+https://dev.to/codefoxx/15-beginner-javascript-projects-to-improve-your-front-end-skills-5bcj
